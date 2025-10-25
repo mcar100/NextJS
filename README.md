@@ -1,2 +1,5 @@
 # NextJS
-This is Study Project By Book (실전에서 바로 쓰는 Next.js)
+ NextJS에 대하여 공부하면서 진행한 프로젝트를 다루는 저장소입니다.
+
+# 참고서
+- 실전에서 바로 쓰는 Next.js
